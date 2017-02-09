@@ -1,0 +1,10 @@
+# This is a csv file
+a,b,c,d,programming
+# what if we have some lines we don't need
+# we can use skip rows
+11,12,13,14,python
+51,61,71,81,java
+# yet another row to skip
+92,19,21,32,ruby
+# this will be the last row to skip
+
